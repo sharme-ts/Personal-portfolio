@@ -67,10 +67,7 @@ To add new projects to the portfolio:
    </div>
    ```
 
-
-
 Thank you for visiting my portfolio!
 
 ---
 
-This is a basic structure of a README file. Customize the sections and content based on your specific project and personal details.
